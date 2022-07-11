@@ -1,5 +1,6 @@
 {
   "name": "ernesthernandez/image-compare",
+  "version": "master",
   "description": "Image Comparer with different aspect ratios and sizes. Can extract duplicate and unique images in directory and much more.",
   "keywords":[
     "image",
